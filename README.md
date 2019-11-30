@@ -1,4 +1,4 @@
-# CS524 Project
+# Unmanned Aerial Vehicle Package Delivery and Trajectory Optimization
 Project for CS524: Intro to Optimization (Fall 2018) at University of Wisconsin-Madison
 
 ## Background
