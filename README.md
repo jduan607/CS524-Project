@@ -1,5 +1,6 @@
 # Unmanned Aerial Vehicle Package Delivery and Trajectory Optimization
 CS524 Intro to Optimization (Fall 2018) Project
+
 Authors: Jingqi Duan, Huanran Li, Chongxi Yuan
 
 ## Background
